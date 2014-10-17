@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyw:home|Door43 (kyw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyw|d43-kyw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyw/archive/master.zip|d43-kyw.zip]]
+
+**Recent Changes**
+{{changes>ns = kyw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyw|Ethnologue data]]
+
